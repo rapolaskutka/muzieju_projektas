@@ -1,3 +1,6 @@
 [submodule "src"]
 	path = src
 	url = git@github.com:rapolaskutka/muziejuProjektas.git
+[submodule "client"]
+	path = client
+	url = git@github.com:rapolaskutka/client.git
